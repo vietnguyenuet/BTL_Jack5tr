@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1745336585 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\jack.cpp
+	"jack.h"
+
+1745336584 c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\jack.h
+	<vector>
+	<SDL.h>
+
+1745408365 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\nam_trieu.cpp
+	"nam_trieu.h"
+	<cstdlib>
+
+1745408365 c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\nam_trieu.h
+	<SDL.h>
+	<vector>
+
+1745336584 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\main.cpp
+	"game.h"
+
+1745408365 c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\game.h
+	"jack.h"
+	"nam_trieu.h"
+	"obstacle.h"
+	<SDL_mixer.h>
+	<SDL.h>
+	<vector>
+
+1745408365 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\game.cpp
+	"game.h"
+	"gameover.h"
+	"obstacle.h"
+	<SDL_image.h>
+	<string>
+
+1745408365 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\gameover.cpp
+	"gameover.h"
+
+1745336584 c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\gameover.h
+	<SDL.h>
+	<vector>
+	"jack.h"
+
+1745408365 c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\obstacle.h
+	<SDL.h>
+	<vector>
+	<string>
+
+1745408365 source:c:\nguyen_sy_viet\nguyen_sy_viet\btl_ltnc_uet\obstacle.cpp
+	"obstacle.h"
+
